@@ -1,7 +1,7 @@
 # Sorting-Visualizer
 **A web-based project developed to provide a visual representation of various sorting algorithms.**
 
-The Sorting Algorithms Visualizer is a web-based project developed using JavaScript, HTML, and CSS. The main goal of this project is to provide a visual representation of various sorting algorithms, enabling users to better understand how these algorithms work.
+The Sorting Algorithms Visualizer is a web-based project developed using _**JavaScript, HTML, and CSS**_. The main goal of this project is to provide a visual representation of various sorting algorithms, enabling users to better understand how these algorithms work.
 
 The featutures of this project are:
 
